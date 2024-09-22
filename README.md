@@ -1,4 +1,3 @@
-# SSHLogCleaner
 
 # SSH Log Cleaning Script
 
